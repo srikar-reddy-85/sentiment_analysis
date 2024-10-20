@@ -1,2 +1,2 @@
-*.pkl
-*.pth
+/text_emotion_act.pkl
+/roberta_emotion_act_model.pth
