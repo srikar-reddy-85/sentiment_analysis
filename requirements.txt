@@ -1,0 +1,17 @@
+# scikit-learn
+#    pandas
+#    transformers
+#    datasets
+#    torch
+#    numpy
+#
+#======================================================
+
+pandas
+numpy
+scikit-learn
+torch
+transformers
+tqdm
+joblib
+datasets
